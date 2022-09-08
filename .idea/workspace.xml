@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="05cc578d-1863-470f-83d5-4cbad5ab3d30" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/PrimeNumbersList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="05cc578d-1863-470f-83d5-4cbad5ab3d30" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -40,9 +37,16 @@
     "RunOnceActivity.ShowReadmeOnStart": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.PrimeNumbersList">
+  <component name="RunManager" selected="Application.NumberOfDigit">
     <configuration name="AreaOfCircle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="AreaOfCircle" />
+      <module name="java-practice-5" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NumberOfDigit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="NumberOfDigit" />
       <module name="java-practice-5" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -57,6 +61,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.NumberOfDigit" />
         <item itemvalue="Application.PrimeNumbersList" />
         <item itemvalue="Application.AreaOfCircle" />
       </list>

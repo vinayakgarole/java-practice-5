@@ -10,6 +10,6 @@ public class NumberOfDigit {
             n=n/10;
             count++;
         }
-        System.out.println("Sum of Digit Number "+count);
+        System.out.println("Number of Digits = "+count);
     }
 }

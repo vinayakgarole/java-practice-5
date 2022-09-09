@@ -1,9 +1,8 @@
 import java.util.Scanner;
-
 public class NumberOfDigit {
     public static void main(String[] args) {
         int n,count=0;
-        System.out.println("Enter any Number ");
+        System.out.println("Enter any Number: ");
         Scanner r=new Scanner(System.in);
         n=r.nextInt();
         while(n>0) {
